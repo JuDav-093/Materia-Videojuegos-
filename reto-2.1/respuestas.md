@@ -1,4 +1,4 @@
-# Respuestas
+# Respuestas RETO
 
 ## 1. Mantén D dos segundos y suéltala: ¿qué contador subió más y por qué?
 
